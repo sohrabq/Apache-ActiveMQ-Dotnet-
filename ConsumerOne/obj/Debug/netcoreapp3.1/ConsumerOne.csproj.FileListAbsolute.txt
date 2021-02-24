@@ -13,7 +13,6 @@ E:\dotnet-codes\active_mq\mq\ConsumerOne\bin\Debug\netcoreapp3.1\Microsoft.Exten
 E:\dotnet-codes\active_mq\mq\ConsumerOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 E:\dotnet-codes\active_mq\mq\ConsumerOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 E:\dotnet-codes\active_mq\mq\ConsumerOne\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-E:\dotnet-codes\active_mq\mq\ConsumerOne\obj\Debug\netcoreapp3.1\ConsumerOne.csprojAssemblyReference.cache
 E:\dotnet-codes\active_mq\mq\ConsumerOne\obj\Debug\netcoreapp3.1\ConsumerOne.AssemblyInfoInputs.cache
 E:\dotnet-codes\active_mq\mq\ConsumerOne\obj\Debug\netcoreapp3.1\ConsumerOne.AssemblyInfo.cs
 E:\dotnet-codes\active_mq\mq\ConsumerOne\obj\Debug\netcoreapp3.1\ConsumerOne.csproj.CoreCompileInputs.cache
